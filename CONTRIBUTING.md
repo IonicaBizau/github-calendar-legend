@@ -59,6 +59,6 @@ Contributions are more than welcome!
 
 Thanks! :sweat_smile:
 
-[1]: https://github.com/IonicaBizau/github-calendar-levels/issues
+[1]: https://github.com/IonicaBizau/github-calendar-legend/issues
 
 [2]: https://github.com/IonicaBizau/code-style

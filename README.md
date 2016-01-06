@@ -1,17 +1,17 @@
-# github-calendar-levels [![Support this project][donate-now]][paypal-donations]
+# github-calendar-legend [![Support this project][donate-now]][paypal-donations]
 
-A list of the GitHub contributions calendar levels.
+The GitHub contributions calendar colors.
 
 ## Installation
 
 ```sh
-$ npm i --save github-calendar-levels
+$ npm i --save github-calendar-legend
 ```
 
 ## Example
 
 ```js
-const legend = require("github-calendar-levels");
+const legend = require("github-calendar-legend");
 
 console.log(legend);
 // => [ "#eee", "#d6e685", "#8cc665", "#44a340", "#1e6823" ]
