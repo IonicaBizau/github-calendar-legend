@@ -1,6 +1,6 @@
 {
   "name": "github-calendar-legend",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The GitHub contributions calendar colors.",
   "main": "lib/index.js",
   "directories": {
