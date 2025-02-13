@@ -1,6 +1,6 @@
 {
   "name": "github-calendar-legend",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "The GitHub contributions calendar colors.",
   "main": "lib/index.js",
   "directories": {
@@ -38,6 +38,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
